@@ -8,6 +8,8 @@ A set of tasks that will help you explore bootstrap.
 
 All items are numbered in a sequence to guide you through the course.
 
+**not yet**
+
 ```
 
 ```
